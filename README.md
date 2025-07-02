@@ -1,2 +1,2 @@
 # Air-Pollution-Analysis-PowerBI
-Interactive Power BI dashboard analyzing air pollution trends across major Indian cities using real-world data. Includes dynamic KPIs, AQI categorization, DAX measures, and a dark-themed visual design. Developed for internship selection at Pianalytix.
+This project presents an interactive Power BI dashboard analyzing air quality across five major Indian cities—Delhi, Mumbai, Chennai, Kolkata, and Bangalore. Using over 18,000 records, it showcases key air pollutants (PM2.5, AQI, gases), dynamic KPIs, slicers, custom DAX measures, and color-coded visualizations. Designed with a clean, dark-themed UI and submitted as part of a data analyst internship assignment for Pianalytix Pvt Ltd.
